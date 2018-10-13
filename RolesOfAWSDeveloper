@@ -1,0 +1,12 @@
+* Creation of different AWS service like API, RDS instance and Lambda to build a serverless application.
+* Creating a Redshift cluster and doing data warehouse.
+* Installation of Talend Studio suit on EC2 instances and creating job server.
+* Creating different S3 buckets and write Lambda to move files from S3 to instance and FTP server to S3.
+* Implementing Kibana on top of Elastic Search.
+* Creating CloudFormation templates for the OpsWork stacks.
+* Creating alerts (custom and managed) for different services.
+* Extracting log data and creating custom logs.
+* Developing with RESTful API interfaces
+* Programming with AWS APIs
+* Writing code that optimizes performance of AWS services used by your application
+* Code-level application security (IAM roles, credentials, encryption, etc.)
