@@ -18,7 +18,7 @@ import com.amazonaws.services.s3.model.Bucket;
  */
 public class S3ListBuckets {
 	public static void main(String[] args) throws IOException {
-		AWSCredentials credentials = new BasicAWSCredentials("AKIAJ2R4AWGKDMAF66NQ", "SeAQCq9KeIkYJCda5wNQ1nd7aVEfuGz7lh8W/XxH");
+		AWSCredentials credentials = new BasicAWSCredentials("AccessKey", "SecretKey");
 
 		ClientConfiguration clientConfig = new ClientConfiguration();
 		clientConfig.setProtocol(Protocol.HTTP);
